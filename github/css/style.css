@@ -1,0 +1,22 @@
+
+.text{
+        font-size:14px;  
+        font-weight:bold; 
+        font-style:italic;
+        color :blue;
+}
+span{
+    color:red;
+}
+
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    border:10px;
+}
+.vid{
+    display:block;
+    margin:0 auto;
+}
